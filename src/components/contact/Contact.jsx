@@ -76,7 +76,7 @@ function Contact() {
             placeholder="Enter your phone no"
             required
           />
-          <label>Write your message here</label>
+          <label>Write your messages here</label>
           <textarea
             name="message"
             rows="6"
